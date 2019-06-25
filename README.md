@@ -1,1 +1,1 @@
-# AngularProductApp
+# ProductApp
