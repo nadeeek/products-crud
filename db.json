@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Galaxy J7",
+      "description": "This is a Phone",
+      "price": "90",
+      "company": "Samsung"
+    },
+    {
+      "id": 2,
+      "title": "iPad mini",
+      "description": "This is a Phone",
+      "price": "80",
+      "company": "Apple"
+    },
+    {
+      "id": 3,
+      "title": "iPhoneX",
+      "description": "This is a Phone",
+      "price": "100",
+      "company": "Apple"
+    },
+    {
+      "id": 4,
+      "title": "Galaxy S9",
+      "description": "This is a Phone",
+      "price": "100",
+      "company": "Samsung"
+    }
+  ]
+}

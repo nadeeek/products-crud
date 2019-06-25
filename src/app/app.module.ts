@@ -9,13 +9,15 @@ import { ProductService } from './product.service';
 import { ListProductsComponent } from './list-products/list-products.component';
 import { AddProductComponent } from './add-product/add-product.component';
 import { EditProductComponent } from './edit-product/edit-product.component';
+import { ProductDetailsComponent } from './product-details/product-details.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     ListProductsComponent,
     AddProductComponent,
-    EditProductComponent
+    EditProductComponent,
+    ProductDetailsComponent
   ],
   imports: [
     BrowserModule,
